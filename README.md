@@ -1,8 +1,6 @@
-Here's a **README** file for your project, assuming you're creating a RESTful API using **Node.js** with **Express** and a **React.js** frontend:
-
 ---
 
-# RESTful API with React.js Frontend
+# SUPER simple RESTful API with React.js Frontend
 
 ## Project Overview
 
@@ -32,8 +30,8 @@ Ensure you have the following tools installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/restful-api-react.git
-cd restful-api-react
+git clone https://github.com/pakagronglb/rest-api-react.git
+cd rest-api-react
 ```
 
 ### 2. Backend Setup (Node.js + Express)
